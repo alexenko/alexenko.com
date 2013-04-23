@@ -1,7 +1,6 @@
 Title: Python framework overview continued
 Date: 2012-09-10 17:17
-Author: Alexenko
-Category: Python
+slug: python-framework-overview-cont
 Tags: django, flask, framework, python
 
 So writing about different frameworks did not work very well for me. I

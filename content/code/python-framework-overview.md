@@ -1,8 +1,7 @@
 Title: Python framework overview
 Date: 2012-08-31 21:57
-Author: Alexenko
-Category: Python
-Tags: framework, list, python
+slug: python-framework-overview
+Tags: framework, list, python, django
 
 I initially chose Pyramid as the framework of choice for a webapp I'm
 working on. I did some surveying prior to making the choice and settled
@@ -15,12 +14,6 @@ This is the first in a series of posts summarizing my research. A lot of
 information was found on other sites and they were linked to where
 possible.
 
-<!--more-->
-
-<span style="color: #000000;"><span class="mceWPmore" title="More...">Pyramid</span></span>
--------------------------------------------------------------------------------------------
-
-</p>
 Blatantly stolen from [Hacker News][]
 
 [http://en.wikipedia.org/wiki/Pyramid\_%28web\_framework%29][]
@@ -167,3 +160,4 @@ More resources
   [Pyramid vs Flask]: http://news.ycombinator.com/item?id=4026913
   [Django vs Pylons]: http://stackoverflow.com/questions/48681/pros-cons-of-django-vs-pylons
   [Top 10 JavaScript MVC frameworks]: http://codebrief.com/2012/01/the-top-10-javascript-mvc-frameworks-reviewed/
+

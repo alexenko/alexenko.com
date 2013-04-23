@@ -1,8 +1,7 @@
-Title: How to build a startup
+Title: EP245: How to build a startup
 Date: 2012-09-24 20:34
-Author: Alexenko
-Category: Me, Uncategorized
-Tags: class, startup
+Tags: class, startup, udacity
+slug: ep245-how-to-build-a-startup
 
 Udacity just started a course ([EP245: How to Build a Startup - The Lean
 Launchpad][]) and so far I am very impressed. I have been reading up on
