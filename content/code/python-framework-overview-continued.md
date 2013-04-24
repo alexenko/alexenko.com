@@ -12,8 +12,6 @@ were to complicated to start making something simple. Maybe down the
 road once I have a pretty big application going and I know exactly what
 I will need, I'll revisit the framework issue and refactor.
 
-<!--more-->
-
 I found flask to be the easiest to work with after taking the Udacity
 class CS253. It is almost much better documented than webapp2 and It's
 quite clear what's going on when something breaks. Ari keeps pushing me
